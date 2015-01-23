@@ -13,7 +13,7 @@ public class ComparisonTest {
 	//currency - Currency Exchange.
 	public static final String SITE_URL = "http://finance.i.ua";
 	public static final String bank		= "Аркада"; 
-	public static final String currency = "USD";
+	public static final String currency = "EUR";
   @Test
   public void currencyPrintout() {
 	  FinancePage fp = new FinancePage(SITE_URL);
