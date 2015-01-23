@@ -1,0 +1,115 @@
+2015-01-24 00:03:54,192 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ComparisonDarkVSCommercialMarkets:ComparisonDarkVSCommercialMarkets:0.0.1-SNAPSHOT @ /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/pom.xml.
+2015-01-24 00:03:54,653 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 00:03:54,654 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/src/main/resources
+2015-01-24 00:03:54,656 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 00:03:54,656 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/src/test/resources
+2015-01-24 00:03:54,722 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ComparisonDarkVSCommercialMarkets/src
+2015-01-24 00:03:54,723 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /ComparisonDarkVSCommercialMarkets/src/test/java because it overlaps with /ComparisonDarkVSCommercialMarkets/src
+2015-01-24 00:03:55,076 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-01-24 00:03:55,099 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ComparisonDarkVSCommercialMarkets:ComparisonDarkVSCommercialMarkets:0.0.1-SNAPSHOT @ /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/pom.xml.
+2015-01-24 00:03:55,198 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ComparisonDarkVSCommercialMarkets/src
+2015-01-24 00:03:55,198 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /ComparisonDarkVSCommercialMarkets/src/test/java because it overlaps with /ComparisonDarkVSCommercialMarkets/src
+2015-01-24 00:03:55,255 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-01-24 00:03:55,717 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 00:03:55,718 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/src/main/resources
+2015-01-24 00:03:55,720 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 00:03:55,721 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/src/test/resources
+2015-01-24 00:06:08,172 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ComparisonDarkVSCommercialMarkets:ComparisonDarkVSCommercialMarkets:0.0.1-SNAPSHOT @ /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/pom.xml.
+2015-01-24 00:06:08,279 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 00:06:08,280 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/src/main/resources
+2015-01-24 00:06:08,281 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 00:06:08,281 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/src/test/resources
+2015-01-24 00:12:16,395 [Worker-16] ERROR o.e.m2e.editor.pom.MavenPomEditor - failed to load maven project for org.eclipse.ui.part.FileEditorInput(/ComparisonDarkVSCommercialMarkets/pom.xml)
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:768) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:956) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:1) ~[na:na]
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4724) ~[na:na]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3522) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2315) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2278) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2193) ~[na:na]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3932) ~[na:na]
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4721) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:954) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:242) ~[na:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261) ~[org.eclipse.m2e.core.ui_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:753) ~[na:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$6.run(MavenPomEditor.java:1073) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+2015-01-24 00:12:16,475 [Worker-12] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:567) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:511) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:466) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:336) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:289) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: start tag unexpected character & (position: START_DOCUMENT seen ...apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"&... @1:204) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:127) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:91) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:556) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: start tag unexpected character & (position: START_DOCUMENT seen ...apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"&... @1:204) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseStartTag(MXParser.java:1838) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseProlog(MXParser.java:1514) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1433) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1131) ~[plexus-utils-3.0.17.jar:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3811) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	... 26 common frames omitted
+2015-01-24 00:12:56,178 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.12/maven-surefire-plugin-2.12.jar
+2015-01-24 00:12:57,417 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/testng/testng/6.8.5/testng-6.8.5.pom
+2015-01-24 00:13:00,170 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.12/maven-surefire-plugin-2.12.jar
+2015-01-24 00:13:00,209 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ComparisonDarkVSCommercialMarkets:ComparisonDarkVSCommercialMarkets:1.0-SNAPSHOT @ /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/pom.xml.
+2015-01-24 00:13:01,700 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/testng/testng/6.8.5/testng-6.8.5.pom
+2015-01-24 00:13:01,935 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/3/oss-parent-3.pom
+2015-01-24 00:13:03,336 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/3/oss-parent-3.pom
+2015-01-24 00:13:03,406 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom
+2015-01-24 00:13:03,832 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom
+2015-01-24 00:13:03,976 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+2015-01-24 00:13:04,327 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+2015-01-24 00:13:04,395 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+2015-01-24 00:13:04,980 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+2015-01-24 00:13:05,116 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/beust/jcommander/1.27/jcommander-1.27.pom
+2015-01-24 00:13:05,975 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/beust/jcommander/1.27/jcommander-1.27.pom
+2015-01-24 00:13:06,051 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.6/snakeyaml-1.6.pom
+2015-01-24 00:13:06,588 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.6/snakeyaml-1.6.pom
+2015-01-24 00:13:08,022 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/testng/testng/6.8.5/testng-6.8.5.jar
+2015-01-24 00:14:33,773 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/testng/testng/6.8.5/testng-6.8.5.jar
+2015-01-24 00:14:33,835 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.jar
+2015-01-24 00:15:00,561 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.jar
+2015-01-24 00:15:00,631 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar
+2015-01-24 00:15:09,019 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar
+2015-01-24 00:15:09,571 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/beust/jcommander/1.27/jcommander-1.27.jar
+2015-01-24 00:15:17,408 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/beust/jcommander/1.27/jcommander-1.27.jar
+2015-01-24 00:15:17,473 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.6/snakeyaml-1.6.jar
+2015-01-24 00:15:44,252 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.6/snakeyaml-1.6.jar
+2015-01-24 00:15:45,082 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 00:15:45,082 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/src/main/resources
+2015-01-24 00:15:45,083 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 00:15:45,083 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/src/test/resources
+2015-01-24 00:15:46,614 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 00:15:46,615 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/src/main/resources
+2015-01-24 00:15:46,616 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-24 00:15:46,616 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/src/test/resources
