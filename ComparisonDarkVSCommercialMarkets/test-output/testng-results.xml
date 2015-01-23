@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15830" started-at="2015-01-02T16:54:22Z" finished-at="2015-01-02T16:54:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15830" started-at="2015-01-02T16:54:22Z" finished-at="2015-01-02T16:54:38Z">
+      <class name="comparison.finance.i.ua.ComparisonTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:comparison.finance.i.ua.ComparisonTest@5bbeffcd]" name="beforeTest" is-config="true" duration-ms="9" started-at="2015-01-02T18:54:22Z" finished-at="2015-01-02T18:54:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="currencyPrintout()[pri:0, instance:comparison.finance.i.ua.ComparisonTest@5bbeffcd]" name="currencyPrintout" duration-ms="15801" started-at="2015-01-02T18:54:22Z" finished-at="2015-01-02T18:54:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- currencyPrintout -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:comparison.finance.i.ua.ComparisonTest@5bbeffcd]" name="afterTest" is-config="true" duration-ms="9" started-at="2015-01-02T18:54:38Z" finished-at="2015-01-02T18:54:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- comparison.finance.i.ua.ComparisonTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
