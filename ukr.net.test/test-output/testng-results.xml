@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12560" started-at="2015-01-24T20:29:07Z" finished-at="2015-01-24T20:29:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12560" started-at="2015-01-24T20:29:07Z" finished-at="2015-01-24T20:29:19Z">
+      <class name="ukr.net.test.UkrNetTests">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:ukr.net.test.UkrNetTests@27e33378]" name="beforeTest" is-config="true" duration-ms="8" started-at="2015-01-24T22:29:07Z" finished-at="2015-01-24T22:29:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="launchTest()[pri:0, instance:ukr.net.test.UkrNetTests@27e33378]" name="launchTest" duration-ms="12433" started-at="2015-01-24T22:29:07Z" finished-at="2015-01-24T22:29:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:ukr.net.test.UkrNetTests@27e33378]" name="afterTest" is-config="true" duration-ms="108" started-at="2015-01-24T22:29:19Z" finished-at="2015-01-24T22:29:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- ukr.net.test.UkrNetTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

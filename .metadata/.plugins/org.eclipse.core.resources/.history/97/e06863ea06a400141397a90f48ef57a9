@@ -1,0 +1,10 @@
+package ukr.net.test;
+
+import org.testng.annotations.Test;
+
+public class UkrNetTests {
+  @Test
+  public void launchTest() {
+	  Driver.getInstance().get("ukr.net");
+  }
+}

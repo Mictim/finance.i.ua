@@ -1057,3 +1057,398 @@ Caused by: org.apache.http.client.CircularRedirectException: Circular redirect t
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 00:15:46.616
 !MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 15:25:20.216
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 15:25:20.218
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 15:25:21.453
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 15:25:21.456
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2015-01-24 15:25:51.246
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /usr/local/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/target/classes /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/lib/selenium-java-2.44.0.zip /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/lib/selenium-server-standalone-2.44.0.jar /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/lib/testng-6.8.5.jar /Users/mictim/.m2/repository/org/testng/testng/6.8.5/testng-6.8.5.jar /Users/mictim/.m2/repository/junit/junit/4.10/junit-4.10.jar /Users/mictim/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar /Users/mictim/.m2/repository/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar /Users/mictim/.m2/repository/com/beust/jcommander/1.27/jcommander-1.27.jar /Users/mictim/.m2/repository/org/yaml/snakeyaml/1.6/snakeyaml-1.6.jar /Users/mictim/.m2/repository/org/seleniumhq/selenium/selenium-java/2.44.0/selenium-java-2.44.0.jar /Users/mictim/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/2.44.0/selenium-chrome-driver-2.44.0.jar /Users/mictim/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/2.44.0/selenium-remote-driver-2.44.0.jar /Users/mictim/.m2/repository/cglib/cglib-nodep/2.1_3/cglib-nodep-2.1_3.jar /Users/mictim/.m2/repository/com/google/code/gson/gson/2.3/gson-2.3.jar /Users/mictim/.m2/repository/org/seleniumhq/selenium/selenium-api/2.44.0/selenium-api-2.44.0.jar /Users/mictim/.m2/repository/com/google/guava/guava/18.0/guava-18.0.jar /Users/mictim/.m2/repository/org/seleniumhq/selenium/selenium-htmlunit-driver/2.44.0/selenium-htmlunit-driver-2.44.0.jar /Users/mictim/.m2/repository/net/sourceforge/htmlunit/htmlunit/2.15/htmlunit-2.15.jar /Users/mictim/.m2/repository/xalan/xalan/2.7.1/xalan-2.7.1.jar /Users/mictim/.m2/repository/xalan/serializer/2.7.1/serializer-2.7.1.jar /Users/mictim/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar /Users/mictim/.m2/repository/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar /Users/mictim/.m2/repository/org/apache/httpcomponents/httpmime/4.3.3/httpmime-4.3.3.jar /Users/mictim/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar /Users/mictim/.m2/repository/net/sourceforge/htmlunit/htmlunit-core-js/2.15/htmlunit-core-js-2.15.jar /Users/mictim/.m2/repository/xerces/xercesImpl/2.11.0/xercesImpl-2.11.0.jar /Users/mictim/.m2/repository/xml-apis/xml-apis/1.4.01/xml-apis-1.4.01.jar /Users/mictim/.m2/repository/net/sourceforge/nekohtml/nekohtml/1.9.21/nekohtml-1.9.21.jar /Users/mictim/.m2/repository/net/sourceforge/cssparser/cssparser/0.9.14/cssparser-0.9.14.jar /Users/mictim/.m2/repository/org/w3c/css/sac/1.3/sac-1.3.jar /Users/mictim/.m2/repository/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar /Users/mictim/.m2/repository/org/eclipse/jetty/jetty-websocket/8.1.15.v20140411/jetty-websocket-8.1.15.v20140411.jar /Users/mictim/.m2/repository/org/eclipse/jetty/jetty-util/8.1.15.v20140411/jetty-util-8.1.15.v20140411.jar /Users/mictim/.m2/repository/org/eclipse/jetty/jetty-io/8.1.15.v20140411/jetty-io-8.1.15.v20140411.jar /Users/mictim/.m2/repository/org/eclipse/jetty/jetty-http/8.1.15.v20140411/jetty-http-8.1.15.v20140411.jar /Users/mictim/.m2/repository/org/apache/httpcomponents/httpclient/4.3.4/httpclient-4.3.4.jar /Users/mictim/.m2/repository/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar /Users/mictim/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/2.44.0/selenium-firefox-driver-2.44.0.jar /Users/mictim/.m2/repository/commons-io/commons-io/2.4/commons-io-2.4.jar /Users/mictim/.m2/repository/org/apache/commons/commons-exec/1.1/commons-exec-1.1.jar /Users/mictim/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/2.44.0/selenium-ie-driver-2.44.0.jar /Users/mictim/.m2/repository/net/java/dev/jna/jna/3.4.0/jna-3.4.0.jar /Users/mictim/.m2/repository/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar /Users/mictim/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/2.44.0/selenium-safari-driver-2.44.0.jar /Users/mictim/.m2/repository/org/seleniumhq/selenium/selenium-support/2.44.0/selenium-support-2.44.0.jar /Users/mictim/.m2/repository/org/webbitserver/webbit/0.4.14/webbit-0.4.14.jar /Users/mictim/.m2/repository/io/netty/netty/3.5.2.Final/netty-3.5.2.Final.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 51389 -d /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/test-output /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/testng.xml
+java -ea -classpath /usr/local/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:/Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/target/classes:/Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/lib/selenium-java-2.44.0.zip:/Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/lib/selenium-server-standalone-2.44.0.jar:/Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/lib/testng-6.8.5.jar:/Users/mictim/.m2/repository/org/testng/testng/6.8.5/testng-6.8.5.jar:/Users/mictim/.m2/repository/junit/junit/4.10/junit-4.10.jar:/Users/mictim/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/Users/mictim/.m2/repository/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar:/Users/mictim/.m2/repository/com/beust/jcommander/1.27/jcommander-1.27.jar:/Users/mictim/.m2/repository/org/yaml/snakeyaml/1.6/snakeyaml-1.6.jar:/Users/mictim/.m2/repository/org/seleniumhq/selenium/selenium-java/2.44.0/selenium-java-2.44.0.jar:/Users/mictim/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/2.44.0/selenium-chrome-driver-2.44.0.jar:/Users/mictim/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/2.44.0/selenium-remote-driver-2.44.0.jar:/Users/mictim/.m2/repository/cglib/cglib-nodep/2.1_3/cglib-nodep-2.1_3.jar:/Users/mictim/.m2/repository/com/google/code/gson/gson/2.3/gson-2.3.jar:/Users/mictim/.m2/repository/org/seleniumhq/selenium/selenium-api/2.44.0/selenium-api-2.44.0.jar:/Users/mictim/.m2/repository/com/google/guava/guava/18.0/guava-18.0.jar:/Users/mictim/.m2/repository/org/seleniumhq/selenium/selenium-htmlunit-driver/2.44.0/selenium-htmlunit-driver-2.44.0.jar:/Users/mictim/.m2/repository/net/sourceforge/htmlunit/htmlunit/2.15/htmlunit-2.15.jar:/Users/mictim/.m2/repository/xalan/xalan/2.7.1/xalan-2.7.1.jar:/Users/mictim/.m2/repository/xalan/serializer/2.7.1/serializer-2.7.1.jar:/Users/mictim/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar:/Users/mictim/.m2/repository/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar:/Users/mictim/.m2/repository/org/apache/httpcomponents/httpmime/4.3.3/httpmime-4.3.3.jar:/Users/mictim/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/Users/mictim/.m2/repository/net/sourceforge/htmlunit/htmlunit-core-js/2.15/htmlunit-core-js-2.15.jar:/Users/mictim/.m2/repository/xerces/xercesImpl/2.11.0/xercesImpl-2.11.0.jar:/Users/mictim/.m2/repository/xml-apis/xml-apis/1.4.01/xml-apis-1.4.01.jar:/Users/mictim/.m2/repository/net/sourceforge/nekohtml/nekohtml/1.9.21/nekohtml-1.9.21.jar:/Users/mictim/.m2/repository/net/sourceforge/cssparser/cssparser/0.9.14/cssparser-0.9.14.jar:/Users/mictim/.m2/repository/org/w3c/css/sac/1.3/sac-1.3.jar:/Users/mictim/.m2/repository/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar:/Users/mictim/.m2/repository/org/eclipse/jetty/jetty-websocket/8.1.15.v20140411/jetty-websocket-8.1.15.v20140411.jar:/Users/mictim/.m2/repository/org/eclipse/jetty/jetty-util/8.1.15.v20140411/jetty-util-8.1.15.v20140411.jar:/Users/mictim/.m2/repository/org/eclipse/jetty/jetty-io/8.1.15.v20140411/jetty-io-8.1.15.v20140411.jar:/Users/mictim/.m2/repository/org/eclipse/jetty/jetty-http/8.1.15.v20140411/jetty-http-8.1.15.v20140411.jar:/Users/mictim/.m2/repository/org/apache/httpcomponents/httpclient/4.3.4/httpclient-4.3.4.jar:/Users/mictim/.m2/repository/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar:/Users/mictim/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/2.44.0/selenium-firefox-driver-2.44.0.jar:/Users/mictim/.m2/repository/commons-io/commons-io/2.4/commons-io-2.4.jar:/Users/mictim/.m2/repository/org/apache/commons/commons-exec/1.1/commons-exec-1.1.jar:/Users/mictim/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/2.44.0/selenium-ie-driver-2.44.0.jar:/Users/mictim/.m2/repository/net/java/dev/jna/jna/3.4.0/jna-3.4.0.jar:/Users/mictim/.m2/repository/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar:/Users/mictim/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/2.44.0/selenium-safari-driver-2.44.0.jar:/Users/mictim/.m2/repository/org/seleniumhq/selenium/selenium-support/2.44.0/selenium-support-2.44.0.jar:/Users/mictim/.m2/repository/org/webbitserver/webbit/0.4.14/webbit-0.4.14.jar:/Users/mictim/.m2/repository/io/netty/netty/3.5.2.Final/netty-3.5.2.Final.jar org.testng.remote.RemoteTestNG -serport 51389 -d /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/test-output /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/testng.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 15:34:24.400
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 15:34:24.423
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 15:38:07.440
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 15:38:07.441
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jdt.core 4 4 2015-01-24 15:38:27.779
+!MESSAGE JavaBuilder handling CoreException
+!STACK 1
+org.eclipse.core.runtime.CoreException: File not found: /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/target/classes/comparison/finance/i/ua/ComparisonTest.class.
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:55)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:386)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:797)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:290)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1133)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:889)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:831)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:859)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:190)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:510)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:367)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:330)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:304)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:135)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:267)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:195)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Caused by: java.io.FileNotFoundException: /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/target/classes/comparison/finance/i/ua/ComparisonTest.class (No such file or directory)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:377)
+	... 26 more
+!SUBENTRY 1 org.eclipse.core.filesystem 4 271 2015-01-24 15:38:27.779
+!MESSAGE File not found: /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/target/classes/comparison/finance/i/ua/ComparisonTest.class.
+!STACK 0
+java.io.FileNotFoundException: /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/target/classes/comparison/finance/i/ua/ComparisonTest.class (No such file or directory)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:377)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:797)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:290)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsByteArray(Util.java:1133)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileCheck(IncrementalImageBuilder.java:889)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.writeClassFileContents(IncrementalImageBuilder.java:831)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:859)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:190)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:510)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:367)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:330)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:304)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:135)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:267)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:195)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 15:38:27.793
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 15:38:27.794
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 15:38:28.807
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 15:38:28.808
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 15:38:40.357
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 15:38:40.383
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 15:39:32.834
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 15:39:32.836
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.testng.eclipse 1 0 2015-01-24 16:13:18.000
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /usr/local/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar /Users/mictim/Documents/GitRepo/finance.i.ua/ukr.net.test/bin /usr/local/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/lib/selenium-java-2.44.0.zip /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/lib/selenium-server-standalone-2.44.0.jar /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/lib/testng-6.8.5.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 52127 -d /Users/mictim/Documents/GitRepo/finance.i.ua/ukr.net.test/test-output /Users/mictim/Documents/GitRepo/finance.i.ua/ukr.net.test/src/testng.xml
+java -ea -classpath /usr/local/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:/Users/mictim/Documents/GitRepo/finance.i.ua/ukr.net.test/bin:/usr/local/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:/Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/lib/selenium-java-2.44.0.zip:/Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/lib/selenium-server-standalone-2.44.0.jar:/Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/lib/testng-6.8.5.jar org.testng.remote.RemoteTestNG -serport 52127 -d /Users/mictim/Documents/GitRepo/finance.i.ua/ukr.net.test/test-output /Users/mictim/Documents/GitRepo/finance.i.ua/ukr.net.test/src/testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-01-24 22:23:59.914
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /usr/local/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar /Users/mictim/Documents/GitRepo/finance.i.ua/ukr.net.test/bin /usr/local/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/lib/selenium-java-2.44.0.zip /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/lib/selenium-server-standalone-2.44.0.jar /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/lib/testng-6.8.5.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53319 -d /Users/mictim/Documents/GitRepo/finance.i.ua/ukr.net.test/test-output /Users/mictim/Documents/GitRepo/finance.i.ua/ukr.net.test/src/testng.xml
+java -ea -classpath /usr/local/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:/Users/mictim/Documents/GitRepo/finance.i.ua/ukr.net.test/bin:/usr/local/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:/Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/lib/selenium-java-2.44.0.zip:/Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/lib/selenium-server-standalone-2.44.0.jar:/Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/lib/testng-6.8.5.jar org.testng.remote.RemoteTestNG -serport 53319 -d /Users/mictim/Documents/GitRepo/finance.i.ua/ukr.net.test/test-output /Users/mictim/Documents/GitRepo/finance.i.ua/ukr.net.test/src/testng.xml
+
+!ENTRY org.testng.eclipse 1 0 2015-01-24 22:29:06.902
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: /usr/local/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar /Users/mictim/Documents/GitRepo/finance.i.ua/ukr.net.test/bin /usr/local/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/lib/selenium-java-2.44.0.zip /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/lib/selenium-server-standalone-2.44.0.jar /Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/lib/testng-6.8.5.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 53450 -d /Users/mictim/Documents/GitRepo/finance.i.ua/ukr.net.test/test-output /var/folders/15/b20ntlvs7m58tf4qxx9hz3640000gn/T/testng-eclipse-198582170/testng-customsuite.xml
+java -ea -classpath /usr/local/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:/Users/mictim/Documents/GitRepo/finance.i.ua/ukr.net.test/bin:/usr/local/eclipse/plugins/org.testng.eclipse_6.8.6.20141201_2240/lib/testng.jar:/Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/lib/selenium-java-2.44.0.zip:/Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/lib/selenium-server-standalone-2.44.0.jar:/Users/mictim/Documents/GitRepo/finance.i.ua/ComparisonDarkVSCommercialMarkets/lib/testng-6.8.5.jar org.testng.remote.RemoteTestNG -serport 53450 -d /Users/mictim/Documents/GitRepo/finance.i.ua/ukr.net.test/test-output /var/folders/15/b20ntlvs7m58tf4qxx9hz3640000gn/T/testng-eclipse-198582170/testng-customsuite.xml
+
+!ENTRY org.eclipse.equinox.security 4 0 2015-01-24 22:30:18.176
+!MESSAGE Secure storage was unable to retrieve the master password from the OS keyring. Make sure that this application has access to the OS keyring. If the error persists, the password recovery feature could be used, or secure storage can be deleted and re-created.
+!STACK 0
+java.lang.SecurityException: Could not obtain password.  Result: 100002
+	at org.eclipse.equinox.internal.security.osx.OSXProvider.getPassword(Native Method)
+	at org.eclipse.equinox.internal.security.osx.OSXProvider.getPassword(OSXProvider.java:45)
+	at org.eclipse.equinox.internal.security.storage.PasswordProviderModuleExt.getPassword(PasswordProviderModuleExt.java:35)
+	at org.eclipse.equinox.internal.security.storage.SecurePreferencesRoot.getModulePassword(SecurePreferencesRoot.java:259)
+	at org.eclipse.equinox.internal.security.storage.SecurePreferencesRoot.getPassword(SecurePreferencesRoot.java:224)
+	at org.eclipse.equinox.internal.security.storage.SecurePreferences.get(SecurePreferences.java:262)
+	at org.eclipse.equinox.internal.security.storage.SecurePreferencesWrapper.get(SecurePreferencesWrapper.java:106)
+	at org.eclipse.egit.core.securestorage.EGitSecureStore.getCredentials(EGitSecureStore.java:76)
+	at org.eclipse.egit.ui.internal.SecureStoreUtils.getCredentialsQuietly(SecureStoreUtils.java:62)
+	at org.eclipse.egit.ui.internal.credentials.EGitCredentialsProvider.get(EGitCredentialsProvider.java:105)
+	at org.eclipse.jgit.transport.HttpAuthMethod.authorize(HttpAuthMethod.java:219)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:502)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:399)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:154)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1200)
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:156)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:228)
+	at org.eclipse.egit.ui.internal.push.PushOperationUI.execute(PushOperationUI.java:167)
+	at org.eclipse.egit.ui.internal.push.PushOperationUI$1.run(PushOperationUI.java:229)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.egit.ui 4 0 2015-01-24 22:30:18.176
+!MESSAGE Failed reading credentials from secure store
+!STACK 0
+org.eclipse.equinox.security.storage.StorageException: No password provided.
+	at org.eclipse.equinox.internal.security.storage.SecurePreferences.get(SecurePreferences.java:264)
+	at org.eclipse.equinox.internal.security.storage.SecurePreferencesWrapper.get(SecurePreferencesWrapper.java:106)
+	at org.eclipse.egit.core.securestorage.EGitSecureStore.getCredentials(EGitSecureStore.java:76)
+	at org.eclipse.egit.ui.internal.SecureStoreUtils.getCredentialsQuietly(SecureStoreUtils.java:62)
+	at org.eclipse.egit.ui.internal.credentials.EGitCredentialsProvider.get(EGitCredentialsProvider.java:105)
+	at org.eclipse.jgit.transport.HttpAuthMethod.authorize(HttpAuthMethod.java:219)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:502)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:399)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:154)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1200)
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:156)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:228)
+	at org.eclipse.egit.ui.internal.push.PushOperationUI.execute(PushOperationUI.java:167)
+	at org.eclipse.egit.ui.internal.push.PushOperationUI$1.run(PushOperationUI.java:229)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 22:35:12.154
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 22:35:12.196
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 22:45:33.312
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 22:45:33.336
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 22:45:34.541
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 22:45:34.543
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 22:51:46.841
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 22:51:46.842
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 22:54:15.755
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 22:54:15.756
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.wst.sse.core 4 4 2015-01-24 22:58:48.589
+!MESSAGE Invalid thread access
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4441)
+	at org.eclipse.swt.SWT.error(SWT.java:4356)
+	at org.eclipse.swt.SWT.error(SWT.java:4327)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:783)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:574)
+	at org.eclipse.swt.widgets.Table.setRedraw(Table.java:2609)
+	at org.eclipse.jface.viewers.AbstractTableViewer.inputChanged(AbstractTableViewer.java:562)
+	at org.eclipse.jface.viewers.ContentViewer.setInput(ContentViewer.java:292)
+	at org.eclipse.jface.viewers.StructuredViewer.setInput(StructuredViewer.java:1675)
+	at org.eclipse.m2e.editor.composites.ListEditorComposite.setInput(ListEditorComposite.java:131)
+	at org.eclipse.m2e.editor.composites.DependenciesComposite.setDependenciesInput(DependenciesComposite.java:816)
+	at org.eclipse.m2e.editor.composites.DependenciesComposite.loadData(DependenciesComposite.java:584)
+	at org.eclipse.m2e.editor.pom.DependenciesPage.loadData(DependenciesPage.java:94)
+	at org.eclipse.m2e.editor.pom.MavenPomEditorPage$1.modelChanged(MavenPomEditorPage.java:137)
+	at org.eclipse.wst.sse.core.internal.model.AbstractStructuredModel.fireModelChanged(AbstractStructuredModel.java:526)
+	at org.eclipse.wst.sse.core.internal.model.AbstractStructuredModel.internalModelChanged(AbstractStructuredModel.java:837)
+	at org.eclipse.wst.sse.core.internal.model.AbstractStructuredModel.changedModel(AbstractStructuredModel.java:361)
+	at org.eclipse.wst.xml.core.internal.document.DOMModelImpl.changedModel(DOMModelImpl.java:171)
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.performOnDOMDocument(PomEdits.java:468)
+	at org.eclipse.m2e.editor.dialogs.ManageDependenciesDialog$2.run(ManageDependenciesDialog.java:264)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 22:58:49.223
+!MESSAGE The POM for org.testng:org.testng:testng:jar:6.8.5:jar:6.8.5 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 22:58:49.427
+!MESSAGE The POM for org.seleniumhq.selenium:selenium-java:jar:2.44 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 22:58:49.927
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 22:58:49.928
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 22:58:49.936
+!MESSAGE The POM for org.testng:org.testng:testng:jar:6.8.5:jar:6.8.5 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 22:58:49.937
+!MESSAGE The POM for org.seleniumhq.selenium:selenium-java:jar:2.44 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 22:58:49.940
+!MESSAGE The POM for org.testng:org.testng:testng:jar:6.8.5:jar:6.8.5 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 22:58:49.941
+!MESSAGE The POM for org.seleniumhq.selenium:selenium-java:jar:2.44 is missing, no dependency information available
+
+!ENTRY org.eclipse.wst.sse.core 4 4 2015-01-24 23:01:47.966
+!MESSAGE Invalid thread access
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4441)
+	at org.eclipse.swt.SWT.error(SWT.java:4356)
+	at org.eclipse.swt.SWT.error(SWT.java:4327)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:783)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:574)
+	at org.eclipse.swt.widgets.Table.setRedraw(Table.java:2609)
+	at org.eclipse.jface.viewers.AbstractTableViewer.inputChanged(AbstractTableViewer.java:562)
+	at org.eclipse.jface.viewers.ContentViewer.setInput(ContentViewer.java:292)
+	at org.eclipse.jface.viewers.StructuredViewer.setInput(StructuredViewer.java:1675)
+	at org.eclipse.m2e.editor.composites.ListEditorComposite.setInput(ListEditorComposite.java:131)
+	at org.eclipse.m2e.editor.composites.DependenciesComposite.setDependenciesInput(DependenciesComposite.java:816)
+	at org.eclipse.m2e.editor.composites.DependenciesComposite.loadData(DependenciesComposite.java:584)
+	at org.eclipse.m2e.editor.pom.DependenciesPage.loadData(DependenciesPage.java:94)
+	at org.eclipse.m2e.editor.pom.MavenPomEditorPage$1.modelChanged(MavenPomEditorPage.java:137)
+	at org.eclipse.wst.sse.core.internal.model.AbstractStructuredModel.fireModelChanged(AbstractStructuredModel.java:526)
+	at org.eclipse.wst.sse.core.internal.model.AbstractStructuredModel.internalModelChanged(AbstractStructuredModel.java:837)
+	at org.eclipse.wst.sse.core.internal.model.AbstractStructuredModel.changedModel(AbstractStructuredModel.java:361)
+	at org.eclipse.wst.xml.core.internal.document.DOMModelImpl.changedModel(DOMModelImpl.java:171)
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.performOnDOMDocument(PomEdits.java:468)
+	at org.eclipse.m2e.editor.dialogs.ManageDependenciesDialog$2.run(ManageDependenciesDialog.java:264)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 23:01:49.868
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 23:01:49.870
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 23:01:50.987
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 23:01:50.989
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 23:10:53.370
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 23:10:53.371
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 23:14:17.387
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 23:14:17.389
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 23:24:45.100
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 23:24:45.102
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.equinox.security 4 0 2015-01-24 23:24:46.182
+!MESSAGE Secure storage was unable to retrieve the master password from the OS keyring. Make sure that this application has access to the OS keyring. If the error persists, the password recovery feature could be used, or secure storage can be deleted and re-created.
+!STACK 0
+java.lang.SecurityException: Could not obtain password.  Result: 100002
+	at org.eclipse.equinox.internal.security.osx.OSXProvider.getPassword(Native Method)
+	at org.eclipse.equinox.internal.security.osx.OSXProvider.getPassword(OSXProvider.java:45)
+	at org.eclipse.equinox.internal.security.storage.PasswordProviderModuleExt.getPassword(PasswordProviderModuleExt.java:35)
+	at org.eclipse.equinox.internal.security.storage.SecurePreferencesRoot.getModulePassword(SecurePreferencesRoot.java:259)
+	at org.eclipse.equinox.internal.security.storage.SecurePreferencesRoot.getPassword(SecurePreferencesRoot.java:224)
+	at org.eclipse.equinox.internal.security.storage.SecurePreferences.get(SecurePreferences.java:262)
+	at org.eclipse.equinox.internal.security.storage.SecurePreferencesWrapper.get(SecurePreferencesWrapper.java:106)
+	at org.eclipse.egit.core.securestorage.EGitSecureStore.getCredentials(EGitSecureStore.java:76)
+	at org.eclipse.egit.ui.internal.SecureStoreUtils.getCredentialsQuietly(SecureStoreUtils.java:62)
+	at org.eclipse.egit.ui.internal.credentials.EGitCredentialsProvider.get(EGitCredentialsProvider.java:105)
+	at org.eclipse.jgit.transport.HttpAuthMethod.authorize(HttpAuthMethod.java:219)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:502)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:399)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:154)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1200)
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:156)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:228)
+	at org.eclipse.egit.ui.internal.push.PushOperationUI.execute(PushOperationUI.java:167)
+	at org.eclipse.egit.ui.internal.push.PushOperationUI$1.run(PushOperationUI.java:229)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.egit.ui 4 0 2015-01-24 23:24:46.183
+!MESSAGE Failed reading credentials from secure store
+!STACK 0
+org.eclipse.equinox.security.storage.StorageException: No password provided.
+	at org.eclipse.equinox.internal.security.storage.SecurePreferences.get(SecurePreferences.java:264)
+	at org.eclipse.equinox.internal.security.storage.SecurePreferencesWrapper.get(SecurePreferencesWrapper.java:106)
+	at org.eclipse.egit.core.securestorage.EGitSecureStore.getCredentials(EGitSecureStore.java:76)
+	at org.eclipse.egit.ui.internal.SecureStoreUtils.getCredentialsQuietly(SecureStoreUtils.java:62)
+	at org.eclipse.egit.ui.internal.credentials.EGitCredentialsProvider.get(EGitCredentialsProvider.java:105)
+	at org.eclipse.jgit.transport.HttpAuthMethod.authorize(HttpAuthMethod.java:219)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:502)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:399)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:154)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1200)
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:156)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:228)
+	at org.eclipse.egit.ui.internal.push.PushOperationUI.execute(PushOperationUI.java:167)
+	at org.eclipse.egit.ui.internal.push.PushOperationUI$1.run(PushOperationUI.java:229)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 23:25:55.371
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 23:25:55.373
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 23:26:21.470
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-24 23:26:21.490
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-25 15:17:45.488
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-01-25 15:17:45.489
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!

@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="comparison.finance.i.ua TESTNG" duration-ms="17665" started-at="2015-01-23T22:01:02Z" finished-at="2015-01-23T22:01:20Z">
+  <suite name="comparison.finance.i.ua TESTNG" duration-ms="27080" started-at="2015-01-24T13:25:51Z" finished-at="2015-01-24T13:26:18Z">
     <groups>
     </groups>
-    <test name="comparisonTest" duration-ms="17665" started-at="2015-01-23T22:01:02Z" finished-at="2015-01-23T22:01:20Z">
+    <test name="comparisonTest" duration-ms="27080" started-at="2015-01-24T13:25:51Z" finished-at="2015-01-24T13:26:18Z">
       <class name="comparison.finance.i.ua.ComparisonTest">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:comparison.finance.i.ua.ComparisonTest@259f1b1d]" name="beforeTest" is-config="true" duration-ms="8" started-at="2015-01-24T00:01:02Z" finished-at="2015-01-24T00:01:02Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:comparison.finance.i.ua.ComparisonTest@42334f8e]" name="beforeTest" is-config="true" duration-ms="17" started-at="2015-01-24T15:25:51Z" finished-at="2015-01-24T15:25:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="currencyPrintout()[pri:0, instance:comparison.finance.i.ua.ComparisonTest@259f1b1d]" name="currencyPrintout" duration-ms="17364" started-at="2015-01-24T00:01:02Z" finished-at="2015-01-24T00:01:19Z">
+        <test-method status="PASS" signature="currencyPrintout()[pri:0, instance:comparison.finance.i.ua.ComparisonTest@42334f8e]" name="currencyPrintout" duration-ms="27045" started-at="2015-01-24T15:25:51Z" finished-at="2015-01-24T15:26:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- currencyPrintout -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:comparison.finance.i.ua.ComparisonTest@259f1b1d]" name="afterTest" is-config="true" duration-ms="283" started-at="2015-01-24T00:01:19Z" finished-at="2015-01-24T00:01:20Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:comparison.finance.i.ua.ComparisonTest@42334f8e]" name="afterTest" is-config="true" duration-ms="6" started-at="2015-01-24T15:26:18Z" finished-at="2015-01-24T15:26:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
